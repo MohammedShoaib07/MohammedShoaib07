@@ -1,4 +1,4 @@
-About Me:
+# About Me:
 
 BTech CSE (AI & ML) <br>building real world solutions<br>built 5+ projects<br>won 2x hackathons
 
